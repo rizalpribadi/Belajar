@@ -4,3 +4,5 @@ Planning Addons
 3. add automation
 4. add huawei automation
 5. Fundamental Data Structure
+  - ETL
+  - Apache Spark
