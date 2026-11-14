@@ -2,5 +2,8 @@ Planning Addons
 1. create new automations
 2. grab anyrawdata
 3. add automation
+  - Hygiene
+4. add huawei automation
 5. Fundamental Data Structure
-  - ETL Pipeline
+  - ETL
+  - Apache Spark
