@@ -1,0 +1,3 @@
+Planning Addons
+1. create new automations
+2. grab anyrawdata
