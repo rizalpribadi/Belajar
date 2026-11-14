@@ -1,3 +1,5 @@
 Planning Addons
 1. create new automations
 2. grab anyrawdata
+3. add automation
+4. add huawei automation
